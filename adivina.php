@@ -54,7 +54,7 @@
 <?php
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $numeroUsuario = intval($_POST["numero_usuario"]);
-    $numeroSecreto = rand(1, 5); // Número aleatorio entre 1 y 5
+    $numeroSecreto = rand(1, 5);
 
     echo "<div class='mensaje'>";
     if ($numeroUsuario == $numeroSecreto) {
