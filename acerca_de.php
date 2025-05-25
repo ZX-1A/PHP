@@ -53,13 +53,13 @@
     <img src="perfil.jpg.jpg" alt="Foto de perfil 2x2">
 
     <div class="enlaces">
-        <a href="https://t.me/miusuario" class="telegram" target="_blank">💬 Chatea por Telegram</a>
+        <a href="https://t.me/yosisequehice" class="telegram" target="_blank">💬 Chatea por Telegram</a>
         <a href="https://wa.me/8098675881" class="whatsapp" target="_blank">💬 Chatea por WhatsApp</a>
     </div>
 
     <h3>🎥 Video recomendado</h3>
     <iframe width="400" height="225"
-        src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+        src="https://www.youtube.com/embed/p3HaHKBvsN0"
         title="Video de YouTube recomendado"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen>
